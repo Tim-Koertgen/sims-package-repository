@@ -1,0 +1,57 @@
+[
+ {
+  "name": "adeepindigo/eye-care",
+  "label": "Eye Care",
+  "description": "Hi All! Here's a mod that adds basic Eye Care to your game",
+  "type": "package",
+  "license": "MIT",
+  "version": "2.3",
+  "icon": "https://c10.patreonusercontent.com/4/patreon-media/p/post/54131217/85ec267b244545d69880e660724337b3/eyJ3Ijo4MjB9/1.png?token-time=1680393600&token-hash=l12Lz5QwfW32zr-dCmeAIkZWKTkXAggVZtHaFZOLH4c%3D",
+  "authors": [
+   {
+    "name": "adeepindigo"
+   }
+  ],
+  "homepage": "https://www.patreon.com/posts/eye-care-v1-54131217",
+  "funding": [
+   {
+    "type": "patreon",
+    "url": "https://www.patreon.com/adeepindigo"
+   }
+  ],
+  "downloads": [
+   "https://c10.patreonusercontent.com/4/patreon-media/p/post/54131217/5a12227834e74e999272c41498d4eb97/eyJhIjoxLCJwIjoxfQ%3D%3D/1?token-time=1679443200&token-hash=JKgCCQcnhHtKvOdr64C81DLrPNT0BpkfOoke8zK9F20%3D"
+  ],
+  "require": {
+   "sims4": "1.97.*",
+   "adeepindigo/general-pie-menu": "2023.01.20"
+  }
+ },
+ {
+  "name": "adeepindigo/general-pie-menu",
+  "label": "General Pie Menu",
+  "description": "The adeepindigo's general pie menu mod",
+  "type": "package",
+  "license": "MIT",
+  "version": "2023.01.20",
+  "icon": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4800259/73a08b8fe34a46f6ab2755dafea7636d/eyJ3IjoyMDB9/1.png?token-time=2145916800&token-hash=qQTsxB1boSmoLqG0xApuxUP8HsNYp07Okk5heqw-V0E%3D",
+  "authors": [
+   {
+    "name": "addepindigo"
+   }
+  ],
+  "homepage": "https://www.patreon.com/adeepindigo",
+  "funding": [
+   {
+    "type": "patreon",
+    "url": "https://www.patreon.com/adeepindigo"
+   }
+  ],
+  "downloads": [
+   "https://c10.patreonusercontent.com/4/patreon-media/p/post/54131217/56927ad8f44c434e8178b7cb2eda72a4/eyJhIjoxLCJwIjoxfQ%3D%3D/1?token-time=1679443200&token-hash=bnD8yXh4zNsnNJ_THDfsx-Md5DZOPJdgKrlT2OfYrec%3D"
+  ],
+  "require": {
+   "sims4": "1.97.*"
+  }
+ }
+]
